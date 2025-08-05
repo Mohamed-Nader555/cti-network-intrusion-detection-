@@ -13,15 +13,25 @@ The project targets **binary classification** of network flows into **Benign (0)
 
 
 ├── Combine_dataset_Final_Project_CTI.ipynb
+
 ├── Working_with_the_dataset_Final_Project_CTI.ipynb
+
 ├── images/
+
 │ ├── corr_heatmap_full.png
+
 │ ├── corr_heatmap_full_pruned.png
+
 │ ├── Gradient Boosting Confusion and ROC.png
+
 │ ├── Logistic Regression Confusion and ROC.png
+
 │ ├── Random Forest Confusion and ROC.png
+
 │ ├── Traffic Distribution Benign vs Attack.png
+
 │ └── ANN Confusion and ROC.png
+
 └── README.md
 
 
